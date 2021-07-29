@@ -1,5 +1,6 @@
 package first.helospring;
 
+import first.helospring.aop.TimeTraceAop;
 import first.helospring.repository.*;
 import first.helospring.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
